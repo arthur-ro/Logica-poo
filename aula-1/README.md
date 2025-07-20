@@ -2,7 +2,6 @@
 
 > Repositório com projetos práticos de **lógica de programação com POO** para iniciantes e intermediários! 🚀
 
-![Banner](https://via.placeholder.com/900x300.png?text=L%C3%B3gica+de+Programa%C3%A7%C3%A3o+POO)
 
 ---
 
